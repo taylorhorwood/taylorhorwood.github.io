@@ -8,8 +8,8 @@ title: Jekyll LibDoc as remote theme
 description: >- # Description of the docs. (>- means to ignore newlines until next param)
   An example of a repository using Jekyll LibDoc as a remote theme
 # IMPORTANT: on Github Pages deploys, url and baseurl must be commented or set to proper settings, otherwise links and resources URL are wrong
-# url: http://localhost # the base hostname & protocol for your site, e.g. http://example.com
-# baseurl: /Jekyll-LibDoc/_site # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 #permalink: /:path/:basename/:output_ext
 #destination: ../your/new/path # Build relative path destination. The destination directory e.g. /blog
 #keep_files: [cache]
