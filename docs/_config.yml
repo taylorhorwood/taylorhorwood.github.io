@@ -20,21 +20,18 @@
 
 
 title: Digital Engineering Primer
-email: your-email@example.com
+#email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog detailing digitial engineering concepts in an open source manner.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  taylorhorwood
+theme: minima
 
 # Build settings
-remote_theme: olivier3lanc/Jekyll-LibDoc
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
