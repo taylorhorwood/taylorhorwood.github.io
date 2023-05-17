@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I work as a digital engineering manager for a transmission and industrial electrical (HV) contractor. Primary experience is with engenering and construction analytics especially around electrical infrastructure. I also manage the analytics and innovation for the New Zealand business.
+I'm intrested in open source tools and open data sets especially when it applies to heavy infrastructure.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Intrests:
+OSS
+Rust
+Construction and BIM
+Connecting datasets together
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Inspirations:
+RTE 
+LF Energy
+EPRI (kinda)
+buildingSmart
+Microsoft (despite below)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Things that annoy me:
+Propriety file formats that make me use cloud servers to access my data
+Gatekeeping
+Excel (despite using it every day)
+Power BI (the worlds biggest hack that works)
