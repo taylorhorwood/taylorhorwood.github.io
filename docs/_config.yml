@@ -22,7 +22,7 @@
 title: Digital Engineering Primer
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog detailing digitial engineering concepts in an open source manner.
+  A blog detailing digitial engineering concepts in an open source manner. Will also sprinkle in some data science for infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  taylorhorwood
