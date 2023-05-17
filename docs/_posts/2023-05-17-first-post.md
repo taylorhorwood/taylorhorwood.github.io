@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "first post"
+title:  "Introduction Post"
 date:   2023-05-17 00:00:00 +1200
-categories: Test Post
+categories: Introduction Post
 ---
 Digital Engineering, BIM, ISO 19650. Firms use these buzzwords to promise fundamental change and cost benefits to clients. Companies claim digital tools will bring from their normal business practices to the gross margins of Google. Digital tools such as BIM, AI, Python convince managers that they are no longer construction contractors and/or civil engineers but tech executives.
 
