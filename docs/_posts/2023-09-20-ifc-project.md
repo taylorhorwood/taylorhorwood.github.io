@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "IFC Project Study"
+date:   2023-09-20 00:00:00 +1200
+categories: Project IFC Post
+---
+
 # IFC Project Section Part 1
 I've been doing a study on IFC project. Mapping the data model to Django model classes to learn it's structure and to learn IFC in general.
 Mindlessly mapping classes to data types and abstract classes has made me think about the value of proliferating for project delivery.  Here's my experience on the current project planning tools.
